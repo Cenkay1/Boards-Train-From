@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/cenkayyaman0417/b0752e6b-4604-4139-8ec6-e43ded30a7f6/6185f2f7-0273-4eb9-91b3-e403c5d9c336/_apis/work/boardbadge/2d7696ed-ca93-4f1e-8a11-70ea73b13aa4?columnOptions=1)](https://dev.azure.com/cenkayyaman0417/b0752e6b-4604-4139-8ec6-e43ded30a7f6/_boards/board/t/6185f2f7-0273-4eb9-91b3-e403c5d9c336/Microsoft.FeatureCategory/)
